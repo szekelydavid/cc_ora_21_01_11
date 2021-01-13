@@ -1,2 +1,6 @@
-package com.company;public class Animals {
+package com.company;
+
+public abstract class Animals {
+    public Animals() {
+    }
 }

@@ -1,6 +1,8 @@
 package com.company;
 
-public interface IsFlying {
-    public void Flying();
+public interface Flying {
+    public void fly();
+    public void feed();
+
 
 }

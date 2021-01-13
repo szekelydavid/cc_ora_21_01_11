@@ -1,2 +1,4 @@
-package com.company;public class UncleBen {
+package com.company;
+
+public class UncleBen {
 }
